@@ -1,4 +1,5 @@
 # variables.tf
+# More variables to be added 
 
 variable "aws_region" {
   description = "The AWS region things are created in"
